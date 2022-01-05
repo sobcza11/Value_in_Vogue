@@ -4,7 +4,7 @@
 
 
 # OVERVIEW
-An incredible year in the financial markets last year (2021), including the equity market in the United States (“US”). This said, slower economic growth & inflation is expected to continue in 2022. Against this backdrop, an outperformance in the defensive sectors may be the result; thus, a move to value equities. 
+An incredible year in the financial markets last year (2021), including the equity market in the United States (“US”). This said, slow economic growth & inflation is expected to continue in 2022. Against this backdrop, an outperformance in the defensive sectors may be the result; thus, a move to value equities. 
 
 # DESCRIPTION
 **The purpose of this mini-project is to develop a database of all US listed equities that have dividends & have never lowered them in the past 30 years; i.e. since January 1990.**
