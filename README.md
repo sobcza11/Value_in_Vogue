@@ -7,14 +7,15 @@
 An incredible year in the financial markets last year (2021), including the equity market in the United States (“US”). This said, slow economic growth & inflation is expected to continue in 2022. Against this backdrop, an outperformance in the defensive sectors may be the result; thus, a move to value equities. 
 
 # DESCRIPTION
-**The purpose of this mini-project is to develop a database of all US listed equities that have dividends & have never lowered them in the past 30 years; i.e. since January 1990.**
+**The purpose of this mini-project is to develop a database of all US listed equities that have had dividends & never lowered them in the past 30 years; i.e. since January 1990.**
 
-This is just one approach to identify value US equities. There is also an Exchange Traded Fund (“ETF”) called the iShares Russell 1000 Value ETF (“IWD”) that is structured for value equities. 
+**This is just one approach to identify value US equities.** There is also an Exchange Traded Fund (“ETF”) called the iShares Russell 1000 Value ETF (“IWD”) that is structured for value equities. 
 
 # CONTENTS
 In the enclosed you will find:
    * **Data**
-     * This is where data is stored 
+     * This is where data is stored
+        * Please note, to mitigate any negative repercussions on myself, I will ask everyone to agree to dissolve my obligation of you obtaining this information. 
    * **Notebooks**
      * This is where the source code is stored
    * **Reports**
