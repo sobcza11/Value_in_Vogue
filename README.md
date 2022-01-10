@@ -11,7 +11,7 @@ An incredible year in the financial markets last year (2021), including the equi
 
 **This is just one approach to identify value US equities.** There is also an Exchange Traded Fund (“ETF”) called the iShares Russell 1000 Value ETF (“IWD”) that is structured for value equities. 
 
-Please note, this is not a comprehensive Data Science or Data Analytics project. It is actually structured to answer a questions I have had for a little while.
+Please note, **this is not a comprehensive Data Science or Data Analytics project. It's structured to answer a questions I have had for a little while.**
 
 # CONTENTS
 In the enclosed you will find:
