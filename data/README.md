@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="500" src="https://github.com/sobcza11/Value_in_Vogue/blob/main/_other/data_read_me.jpg">
+  <img width="400" height="250" src="https://github.com/sobcza11/Value_in_Vogue/blob/main/_other/data_read_me.jpg">
 </p>
 
 
