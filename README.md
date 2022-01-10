@@ -15,7 +15,7 @@ An incredible year in the financial markets last year (2021), including the equi
 In the enclosed you will find:
    * **Data**
      * This is where data is stored
-        * Please note, to mitigate any negative repercussions on myself, I will ask everyone to agree to dissolve my obligation of you obtaining this information. 
+        * Please note, to mitigate any negative repercussions on myself, I will ask everyone to agree to dissolve my obligation of you obtaining this information; therefore, if you want it, please reach out to me.
    * **Notebooks**
      * This is where the source code is stored
    * **Reports**
