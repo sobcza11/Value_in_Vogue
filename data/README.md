@@ -1,3 +1,5 @@
+https://github.com/sobcza11/Value_in_Vogue/blob/main/_other/data_read_me.jpg
+
 # COMMENTS
 Please note, this section is purposely blank. **The code is there for yourself to pull the data.**
 
