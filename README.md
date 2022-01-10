@@ -18,7 +18,7 @@ In the enclosed you will find:
         * Please note, to mitigate any negative repercussions on myself, I will ask everyone to agree to dissolve my obligation of you obtaining this information; therefore, if you want it, please reach out to me.
    * **Notebooks**
      * This is where the source code is stored.
-        * I welcome everyone to copy it & run it yourself. I am ALSO open to hearing if you can spot an error; please feel free to reach out to me.
+        * I welcome everyone to copy it & run it yourself. I am ALSO open to hearing if you can spot an error; please feel free to reach!
    * **Reports**
      * The Presentation & Report summarizes the findings
 
