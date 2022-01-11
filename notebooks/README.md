@@ -1,7 +1,8 @@
 # NOTEBOOKS
 Here you will find the following notebooks with a brief summary of each below:
-  * **`xxx`**
-    * xxx
+  * **`df`**
+    * This is the main directory with all of the tickers with their ticker symbol, name, dividend (at the time of procurement), first identified dividend payment & calc
+      * Disregard calc 
   * **`xxx`**
     * xxx
   * **`xxx`**
