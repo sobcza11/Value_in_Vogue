@@ -1,10 +1,10 @@
 # NOTEBOOKS
 Here you will find the following notebooks with a brief summary of each below:
-  * `xxx`
+  * **`xxx`**
     * xxx
-  * `xxx`
+  * **`xxx`**
     * xxx
-  * `xxx`
+  * **`xxx`**
     * xxx
 
 # RISK WARNING
