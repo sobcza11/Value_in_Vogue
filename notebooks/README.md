@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="250" src="https://github.com/sobcza11/Value_in_Vogue/blob/main/_other/jup.jpg">
+  <img width="250" height="250" src="https://github.com/sobcza11/Value_in_Vogue/blob/main/_other/jup.jpg">
 </p>
 
 # NOTEBOOKS
