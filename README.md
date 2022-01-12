@@ -22,7 +22,7 @@ In the enclosed you will find:
      * This is where the source code is stored.
         * I welcome everyone to copy it & run it yourself. I am ALSO open to hearing if you can spot an error; please feel free to reach out.
    * **Reports**
-     * The Presentation & Report summarizes the findings
+     * The Report summarizes my findings; view it as a "collection of my thoughts"
 
 # RISK WARNING
 This site offers general financial advice that does not take into consideration factors such as my trading experience, personal objectives / goals, financial means, or risk tolerance. If your seeking financial advice, the contents herein should not serve as financial advise & I am not responsible for any loses accrued from these contents. It is suggested that you seek advice from a professional financial advisor. Keep in mind that past performance is no indication of future results.
