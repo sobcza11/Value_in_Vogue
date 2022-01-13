@@ -13,7 +13,7 @@ The inspiration for this mini-project is nothing more than answering a question 
 
 Please note, **this is just one approach to identify value US equities.** There is also an Exchange Traded Fund (“ETF”) called the iShares Russell 1000 Value ETF (“IWD”) that is structured for value equities. 
 
-Please note, **this is not a comprehensive Data Science or Data Analytics project. It's purpose / structure is purely to answer a question I have had for a little while.**
+Please note, **this is not a comprehensive Data Science or Data Analytics project. As mentioned, it's purpose / structure is purely to answer a question I have had for a little while.**
 
 # CONTENTS
 In the enclosed you will find:
