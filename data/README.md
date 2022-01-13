@@ -6,7 +6,7 @@
 # DATA :: COMMENTS
 Please note, I purposely left the scraped data out. **The code is there for yourself to pull the data in the `notebooks section`.**
 
-I did, however, include the entitled `IWD_holdings` as this was provided by the ETF.
+I did, however, include the iShares Russell 1000 Value ETF (“IWD”) entitled `IWD_holdings` as this was provided by the ETF.
 
 **If you can’t code & wish to see the scraped data**, I am happy to share with no associated financial requirements, I would just ask that you agree that I hold no responsibility to you making any financial decisions based on the contents provided; **please read the RISK WARNING**.
 
