@@ -4,6 +4,11 @@
 
 
 # DATA :: COMMENTS
+Please find enclosed the following dataframes ::
+  * `df`
+  * `IWD_holdings`
+
+
 Please note, I purposely left the scraped data out. **The code is there for yourself to pull the data in the `notebooks section`.**
 
 I did, however, include the iShares Russell 1000 Value ETF (“IWD”) entitled `IWD_holdings` as this was provided by the ETF.
