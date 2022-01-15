@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="850" height="500" src="https://github.com/sobcza11/Value_in_Vogue/blob/main/_other/reports.jpg">
+  <img width="850" height="250" src="https://github.com/sobcza11/Value_in_Vogue/blob/main/_other/reports.jpg">
 </p>
 
 # REPORTS :: COMMENTS
