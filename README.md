@@ -19,7 +19,7 @@ Please note, **this is not a comprehensive Data Science or Data Analytics projec
 In the enclosed you will find:
    * **Data**
      * This is where data is stored
-        * Please note, to mitigate any negative repercussions on myself, I will ask everyone to agree to dissolve my obligation of you obtaining this information; therefore, if you want it, please reach out to me.
+        * Please note, to mitigate any negative repercussions on myself, I will ask everyone to agree to dissolve my obligation of you obtaining this information; thus, if you want to view the contents therein, please reach out to me for the password.
    * **Notebooks**
      * This is where the source code is stored.
         * I welcome everyone to copy it & run it yourself. I am ALSO open to hearing if you can spot an error; please feel free to reach out.
