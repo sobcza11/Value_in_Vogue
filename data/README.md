@@ -7,7 +7,7 @@
 Please find enclosed the following dataframes ::
   * `df`
     * This includes the equities which were scraped in the code
-    * Please note, this is protect with a password. If you wish to view the content, please ask for the passowrd
+    * **Please note, this is protect with a password. If you wish to view the content, please ask me for the passowrd**
   * `IWD_holdings`
     * This includes the list of equities in the iShares Russell 1000 Value ETF (“IWD”)
 
