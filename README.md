@@ -18,13 +18,13 @@ Please note, **this is not a comprehensive Data Science or Data Analytics projec
 # CONTENTS
 In the enclosed you will find:
    * **Data**
-     * This is where data is stored
+     * This is where **data is stored**
         * Please note, to mitigate any negative repercussions on myself, I will ask everyone to agree to dissolve my obligation of you obtaining this information; thus, if you want to view the contents therein, please reach out to me for the password.
    * **Notebooks**
-     * This is where the source code is stored.
+     * This is where the **source code is stored**.
         * I welcome everyone to copy it & run it yourself. I am ALSO open to hearing if you can spot an error; please feel free to reach out.
    * **Reports**
-     * The Report summarizes my findings; view it as a "collection of my thoughts"
+     * The Report summarizes my findings; view it as a **"collection of my thoughts"**
 
 # RISK WARNING
 This site offers general financial advice that does not take into consideration factors such as my trading experience, personal objectives / goals, financial means, or risk tolerance. If your seeking financial advice, the contents herein should not serve as financial advise & I am not responsible for any loses accrued from the contents herein. It is suggested that you seek advice from a professional financial advisor. Keep in mind that past performance is no indication of future results.
