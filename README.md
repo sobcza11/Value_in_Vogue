@@ -9,7 +9,7 @@ An incredible year in the financial markets last year (2021), including the equi
 # DESCRIPTION
 **The purpose of this mini-project is to develop a database of all US listed equities that have had dividends & never lowered them in the past 30 years; i.e. since January 1990.** 
 
-The inspiration for this project, for simplicity purposes, is nothing more than answering a question I've had for a while. 
+The inspiration for this project, simply put, is nothing more than answering a question I've had for a while. 
 
 Please note, **this is just one approach to identify value US equities.** There is also an Exchange Traded Fund (“ETF”) called the iShares Russell 1000 Value ETF (“IWD”) that is structured for value equities. 
 
