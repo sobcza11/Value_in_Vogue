@@ -11,7 +11,7 @@ Please find enclosed the following dataframes ::
   * `IWD_holdings`
     * This includes the list of equities in the iShares Russell 1000 Value ETF (“IWD”)
 
-**please read the RISK WARNING**. Before downloading, please read the Risk Warning; thanks for your understanding. 
+**Please read the RISK WARNING**. Before downloading, please read the Risk Warning; thanks for your understanding. 
  
 
 # RISK WARNING
