@@ -11,7 +11,7 @@ An incredible year in the financial markets last year (2021), including the equi
 
 The inspiration for this mini-project, simply put, is nothing more than answering a question I've had for a while.  
 
-Please note, **this is just one approach to identify value US equities.** There is also an Exchange Traded Fund (“ETF”) called the iShares Russell 1000 Value ETF (“IWD”) that is structured for value equities. Please note, **I compare the appreciation of the equities identified herein to the appreciation of the `IWD` during different periods of high volatility.** 
+Please note, **this is just one approach to identify value US equities.** There is also an Exchange Traded Fund (“ETF”) called the iShares Russell 1000 Value ETF (“IWD”) that is structured for value equities. In the reports, **I compare the appreciation of the equities identified herein to the appreciation of the `IWD` during different periods of high volatility.** 
 
 Please note, **this is not a comprehensive Data Science or Data Analytics project. As mentioned, it's purpose / structure is purely to answer a question I have had for a little while.**
 
